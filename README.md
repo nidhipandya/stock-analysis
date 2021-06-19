@@ -17,7 +17,7 @@ After Refactoring, both versions of the code were tested to see their runtime pe
 The results of these tests(in seconds) :
 
             2017	2018
-Original	0.75	0.765625
+Original	[**0.75**](https://github.com/nidhipandya/stock-analysis/blob/master/Resources/OriginalCode_2017.PNG)	[**0.765625**](https://github.com/nidhipandya/stock-analysis/blob/master/Resources/OriginalCode_2018).PNG
 Refactored	0.10937	0.1015625
 
 Here the dataset is small and the runtime performance is about 6 times faster with Refactored code. Refactored code runs the 'for loop' one time only so that's the reason for its better performance.
