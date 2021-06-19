@@ -4,7 +4,7 @@
 
 Refactoring of VBA Stock Analysis Code Previously Written
 
-###purpose
+### Purpose
 
 The purpose of this project was to Refactor a set of Visual Basic for Applications (VBA) Excel Subroutines previously written to perform analysis on a set of trading volume and price observations to see if they could be made to execute more quickly.
 
